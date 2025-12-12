@@ -1,0 +1,8 @@
+# binaries
+calc
+
+# old files
+old/
+
+# editor temp files
+*.save
